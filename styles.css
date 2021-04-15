@@ -1,9 +1,15 @@
+body {
+    background-color: whitesmoke;
+}
 h3 {
     font-size: 2.5rem;
     font-weight: bold;
 }
 hr{
     margin: 0;
+}
+a{
+    text-decoration: none;
 }
 .logo {
     width: 5%;
@@ -15,7 +21,7 @@ hr{
 .feature-img {
     width: 30%;
 }
-#features, #footer{
+#features, #footer,#contact-us{
     padding: 7% 0;
     text-align: center;
     background-color: whitesmoke;
@@ -25,4 +31,13 @@ hr{
 }
 .footer-logo:hover {
     color: gray;
+}
+#tour-plan {
+    padding: 7% 2%;
+    text-align: left;
+    background-color: whitesmoke;
+    border: whitesmoke;
+}
+#title {
+    margin: 6% 0;
 }
