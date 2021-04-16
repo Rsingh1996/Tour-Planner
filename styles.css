@@ -21,7 +21,7 @@ a{
 .feature-img {
     width: 30%;
 }
-#features, #footer,#contact-us{
+#features, #footer{
     padding: 7% 0;
     text-align: center;
     background-color: whitesmoke;
@@ -39,5 +39,24 @@ a{
     border: whitesmoke;
 }
 #title {
-    margin: 6% 0;
+    padding: 6% 0;
+}
+#contact-us {
+    padding: 15% 0 0 0;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.card {
+    margin: 5% 3%;
+}
+.about-slider-section {
+    background-image: url("https://source.unsplash.com/1800x1200/? bird, peackock, rain, knight");
+    margin-top: 6%;
+    padding: 5%;
+}
+.intro {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 2%;
+    margin-left: auto%;
 }
