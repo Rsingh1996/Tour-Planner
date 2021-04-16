@@ -1,9 +1,16 @@
 body {
     background-color: whitesmoke;
 }
+h1 {
+    font-size: 2rem;
+    color:gray;
+    font-weight: bold;
+    text-align: center;
+}
 h3 {
     font-size: 2.5rem;
     font-weight: bold;
+    
 }
 hr{
     margin: 0;
@@ -17,6 +24,7 @@ a{
 .carousel-item {
     font-family: cursive;
     line-height: 2;
+    font-weight: bold;
 }
 .feature-img {
     width: 30%;
@@ -43,6 +51,7 @@ a{
 }
 #contact-us {
     padding: 15% 0 0 0;
+    margin-top: 20px;
     text-align: center;
     background-color: whitesmoke;
 }
@@ -57,6 +66,17 @@ a{
 .intro {
     background-color: whitesmoke;
     text-align: center;
-    padding: 2%;
-    margin-left: auto%;
+    padding: 10%;
+    margin-left: auto;
+}
+.navbar {
+    padding-top: 20px;
+}
+.card-title {
+    font-size: 22px;
+    font-weight: 900;
+}
+#domestic-tour-plan {
+    margin-top: 90px;
+    padding-top: 35px;
 }
